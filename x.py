@@ -12,7 +12,7 @@ from googleapiclient.errors import HttpError
 
 # Set the path to the video and audio files you want to stream
 
-VIDEO_PATH = '/path/to/video.mp4'
+VIDEO_PATH = 'video.mp4'
 
 AUDIO_PATH = '/path/to/audio.mp3'
 
